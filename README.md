@@ -14,18 +14,7 @@ The bot uses the **Sparx Cookie Getter** Chrome extension to obtain your session
 1. Install the **Sparx Cookie Getter** extension from [DeterminedGeneral/Sparx-Cookie-Getter](https://github.com/DeterminedGeneral/Sparx-Cookie-Getter)
 2. Log into Sparx Maths in your browser
 3. Click the extension icon and hit "Copy Cookies"
-
-### 2. Invite the bot to your server
-
-Use the OAuth2 URL from the bot's console output when it starts.
-
-### 3. Link your account
-
-In Discord, use:
-# sparx-bot
-# sparx-bot
-# sparx-bot
-# sparx-bot
+In Di
 =======
 # sparx-bot
 sprx autocompleter
