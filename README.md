@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sparx Maths Discord Bot
 
 A Discord bot for interacting with Sparx Maths — view homework, auto-submit bookwork evidence, and manage your tasks from Discord.
@@ -25,3 +26,7 @@ In Discord, use:
 # sparx-bot
 # sparx-bot
 # sparx-bot
+=======
+# sparx-bot
+sprx autocompleter
+>>>>>>> 6e6831275376e6f766b546ed683d71fa85163cae
