@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sparx Maths Discord Bot
 
 A Discord bot for interacting with Sparx Maths — view homework, auto-submit bookwork evidence, and manage your tasks from Discord.
